@@ -1,2 +1,1 @@
-# Tindog
-First HTML, CSS and Bootstrap Project
+TinDog Starting Files
